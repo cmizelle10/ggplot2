@@ -7,4 +7,4 @@ size = Area or radius of points, thickness of lines
 alpha = Transparency 
 linetype = Line dash pattern
 labels = Text on a plot or axes
-
+shape = Shape
